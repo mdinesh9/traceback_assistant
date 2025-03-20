@@ -8,9 +8,8 @@ A Python package that explains tracebacks using OpenAI's API.
 pip install traceback_assistant
 ```
 
-## Usage
 
-### Set Open AI Key in environmental variable
+### Set Open AI Key in environmental variable/file
 ```bash
 export OPENAI_API_KEY="your_openai_api_key"
 ```
